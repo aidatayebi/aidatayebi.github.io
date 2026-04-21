@@ -7,19 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning researcher focused on fair and interpretable AI. I received my Ph.D. from the University of Central Florida, where I worked on developing deep learning models for drug discovery, particularly drug–target interaction prediction.
+I am a Machine Learning Engineer and Postdoctoral Researcher specializing in deep learning and responsible AI. I earned my Ph.D. from the University of Central Florida, where I built scalable AI systems with a focus on fairness and real-world impact.
 
-My research lies at the intersection of machine learning, fairness, and real-world impact, with the goal of building systems that are not only powerful, but also transparent, accountable, and equitable.
+My work spans scientific machine learning, bias mitigation in deep learning and large language models, and the application of AI to drug discovery. My research has been published in leading venues, including NeurIPS.
 
-## Research Interests
-
-- Fair and interpretable machine learning
-- Deep learning for drug discovery
-- Drug–target interaction prediction
-- Responsible and trustworthy AI
-
-## Links
-
-- [GitHub](https://github.com/aidatayebi)
-- [Google Scholar](https://scholar.google.com/citations?user=GQwmU4gAAAAJ&hl=en&oi=ao)
-- [LinkedIn](https://www.linkedin.com/in/aida-tayebi/)
+I also have experience mentoring graduate students and guiding teams in developing end-to-end machine learning and data engineering solutions for real-world applications.
